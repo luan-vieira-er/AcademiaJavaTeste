@@ -11,6 +11,7 @@ public class Conta
     private int Id;
     private int Numero;
     private int Saldo;
+    private String NomeUsuario;
 
     /**
      * Construtor para objetos da classe Conta
